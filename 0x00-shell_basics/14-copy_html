@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 cp -rua *.html ../
-=======
-cp .*.html ..
->>>>>>> 2cbe064d76c657229ef46b264435218e3c1baba7
