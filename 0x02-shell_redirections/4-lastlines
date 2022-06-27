@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -e 4-lastlines | tail
+tail /etc/passwd
