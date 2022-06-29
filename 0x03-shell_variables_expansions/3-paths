@@ -1,0 +1,2 @@
+#!/bin/bas
+echo $PATH type -d | tr ':' '\n' | wc -l
